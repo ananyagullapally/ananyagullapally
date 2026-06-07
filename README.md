@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Ananya</h1>
 <p align="center">
-  Data Engineer | ML Engineer | AI Systems Builder  
+  Data Science | ML Engineer | AI Systems Builder  
 </p>
 
 <p align="center">
