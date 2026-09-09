@@ -8,7 +8,7 @@
 </p>
 
 ### What I do
-Build real-time & batch data pipelines (Kafka, Spark, Airflow)<br>Develop production ML systems (MLOps, monitoring, explainability)<br>Work on AI/LLM systems (RAG, retrieval, backend integration)<br>I also write on [Medium](https://medium.com/@ananyatech)
+Build real-time & batch data pipelines (Kafka, Spark, Airflow)<br>Develop production ML systems (MLOps, monitoring, explainability)<br>Work on AI/LLM systems (RAG, retrieval, backend integration)
 
 
 # Tech Stack:
