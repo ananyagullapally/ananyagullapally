@@ -8,7 +8,13 @@
 </p>
 
 ### What I do
-Build real-time & batch data pipelines (Kafka, Spark, Airflow)<br>Develop production ML systems (MLOps, monitoring, explainability)<br>Work on AI/LLM systems (RAG, retrieval, backend integration)
+Data is only as powerful as the decisions it drives. I build end-to-end machine learning and AI systems, from data pipelines to production-grade model deployment — that close the gap between raw data and real-world impact.
+
+My work sits at the intersection of machine learning engineering, MLOps, LLMs, and system design, architecting scalable, cloud-native AI/ML pipelines, from feature engineering and model training to monitoring and drift detection, that translate technical capability into measurable business outcomes across fraud detection, financial intelligence, and social impact.
+
+My goal is to partner with teams to design and deploy production-ready ML models and agentic AI systems that solve problems at their root, not just in notebooks, but in real, scalable systems.
+
+Currently pursuing my Master's in AI & Business Analytics at USF. Open to opportunities in Machine Learning Engineering, AI Engineering, MLOps, and Applied AI/Data Science roles.
 
 
 # Tech Stack:
