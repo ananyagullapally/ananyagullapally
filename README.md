@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  Building production-grade data & ML systems — not just notebooks.
+  Building production-grade AI & ML systems.
 </p>
 
 ### What I do
