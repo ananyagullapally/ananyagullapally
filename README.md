@@ -8,7 +8,7 @@
 </p>
 
 ### What I do
-Data is only as powerful as the decisions it drives. I build end-to-end machine learning and AI systems, from data pipelines to production-grade model deployment — that close the gap between raw data and real-world impact.
+Data is only as powerful as the decisions it drives. I build end-to-end machine learning and AI systems, from data pipelines to production-grade model deployment, that close the gap between raw data and real-world impact.
 
 My work sits at the intersection of machine learning engineering, MLOps, LLMs, and system design, architecting scalable, cloud-native AI/ML pipelines, from feature engineering and model training to monitoring and drift detection, that translate technical capability into measurable business outcomes across fraud detection, financial intelligence, and social impact.
 
